@@ -12,7 +12,7 @@ It allows managing student grades with the following features:
 
 
 
-Task 2 (AICHATBOT)
+📌Task 2 (AICHATBOT)
 AI Chatbot using Java, NLP and Rule-Based System
 Project Description
 This project is a Java-based AI chatbot developed for real-time interactive communication.
