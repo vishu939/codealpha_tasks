@@ -53,46 +53,5 @@ NLPProcessor.java - NLP processing and intent detection
 Intent.java - Defines chatbot intents
 ChatbotGUI.java - Graphical user interface
 AICHATBOT
-About
-
-No description, website, or topics provided.
-Resources
-Readme
-Activity
-Stars
-0 stars
-Watchers
-0 watching
-Forks
-0 forks
-Releases
-No releases published
-Create a new release
-Packages
-No packages published
-Publish your first package
-Contributors
-1
- (1)
-@vishu939
-vishu939
-Languages
-Java
-100%
-Suggested workflows
-Based on your tech stack
-
-Java with Ant logo
-Java with Ant
-Build and test a Java project with Apache Ant.
-By GitHub Actions
-Publish Java Package with Maven logo
-Publish Java Package with Maven
-Build a Java Package using Maven and publish to GitHub Packages.
-By GitHub Actions
-Android CI logo
-Android CI
-Build an Android project with Gradle.
-By GitHub Actions
-More workflows
+e workflows
 Footer
